@@ -14,3 +14,5 @@ git clone git@github.com:lvshaobo/repository
 
 
 
+git push origin master
+
